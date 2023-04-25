@@ -4,7 +4,7 @@ body::-webkit-scrollbar-thumb {
     background-color: #e42922; border-radius: 9em; }
 .head { display: flex; justify-content: center;}
 a {text-decoration: none;}
-.head__wrapper { background-color: #e42922; border: 2px solid white; border-top: 0px solid black; width: 1400px; position: fixed; display: flex; align-items: center; justify-content: center; border-radius: 0px 0px 30px 30px;}
+.head__wrapper { background-color: #e42922; border: 2px solid white; border-top: 0px solid black; width: 1400px; top: 0px; position: fixed; display: flex; align-items: center; justify-content: center; border-radius: 0px 0px 30px 30px;}
 .head_a { color: white; text-decoration: none; margin: 0px 20px; font-size: 20px; font-weight: 600;}
 .head_a:hover { background-size: 100% 2px;  }
 .head__conteiner, .navigation_open, .nav-item { display: flex; align-items: center; justify-content: center; width: 100%; }
