@@ -74,7 +74,7 @@ footer {width: 100%; display: flex; justify-content: center; margin-top: 100px;}
 .rec_bank_coneiner { display: flex; justify-content: center; margin: 0px 20px;}
 .bb_h3 {display: flex; justify-content: center; width: 100%;}
 
-.input_form {padding: 15px; box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.25); border-radius: 20px; width: 300px; margin: 10px 0px; overflow: hidden; }
+.input_form {padding: 15px; border: 2px solid black; border-radius: 20px; width: 300px; margin: 10px 0px; overflow: hidden; }
 
 .section__form { width: 100%; display: flex; justify-content: center; margin-top: 100px;}
 .section__form__conteiner { width: 1400px; border-radius: 20px; box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.25); display: flex; align-items: center; 
