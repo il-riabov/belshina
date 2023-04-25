@@ -85,6 +85,8 @@ const TOKEN = "6073424362:AAGNrN__u6Wxp8ds8qx_4YFPLJ6gaZCW9WI";
                 this.email.value = "";
                 this.telephone.value = "";
                 this.question.value = "";
+                $('.thanks').css('display', 'flex')
+                $('body').css('overflow', 'hidden')
             })
             .catch((err) => {
                 console.warn(err);
@@ -95,3 +97,7 @@ const TOKEN = "6073424362:AAGNrN__u6Wxp8ds8qx_4YFPLJ6gaZCW9WI";
 
             // onclick=form.reset()
         })
+$('.btn_check_close').click(function () { 
+  $('.thanks').css('display', 'none')
+  $('body').css('overflow', 'visible')
+})
