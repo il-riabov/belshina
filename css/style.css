@@ -65,7 +65,7 @@ footer {width: 100%; display: flex; justify-content: center; margin-top: 100px;}
 .map__conteiner { width: 1400px; margin: 0px 20px; }
 .map__left__right { display: flex; justify-content: space-between; width: 100%; margin-top: 40px;}
 .map__contacts { display: flex; flex-direction: column; }
-.h3_cnt { margin: 0px 0px 4px 0px; font-size: 30px; margin-top: 20px;}
+.h3_cnt { margin: 0px 0px 10px 0px; font-size: 30px; margin-top: 20px;}
 .block_cnt_map { box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.25); padding: 20px 40px; border-radius: 20px; font-size: 25px;}
 .map_cnt { margin: 5px 0px; }
 .mmm { width: 50%; box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.25); overflow:hidden; border-radius: 20px;}
