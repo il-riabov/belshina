@@ -7,7 +7,7 @@ $('.button__close').click(function() {
   $('.btn__open').css('display', 'flex')
 })
 
-// $( window ).resize(function() { if (screen.width <= 1400) { location.reload(); }});
+//dfsfa $( window ).resize(function() { if (screen.width <= 1400) { location.reload(); }});
 
 function delelte_dsc() {
   $('.dsn-2021').css('display', 'none'); $('.dsn-2020').css('display', 'none'); $('.dsn-2019').css('display', 'none'); 
